@@ -11,7 +11,9 @@ namespace product_crud.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-            Console.WriteLine("Hello");
+
+            Console.WriteLine("Hellosir");
+
             return View();
         }
     }
