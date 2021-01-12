@@ -13,7 +13,7 @@ namespace product_crud.Controllers
             ViewBag.Title = "Home Page";
 
             Console.WriteLine("Hellosir");
-            Console.WriteLine("check my work aayush");
+            Console.WriteLine("check mhhhbhby work aayush");
             return View();
         }
     }
